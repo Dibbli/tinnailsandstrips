@@ -3,7 +3,7 @@
 	"modid": "tinnailsandstrips",
 	"name": "Tin Nails and Strips",
 	"description": "Adds a tin variant of metal nails and strips.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"authors": ["Dibbli"],
 	"side": "Universal",
 	"requiredOnClient": true,
