@@ -1,0 +1,39 @@
+[
+  {
+    "op": "add",
+    "path": "/allowedVariants/14",
+    "value": "*-tin",
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/reinforcementStrengthByType/*-tin",
+    "value": 50,
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/combustiblePropsByType/metalnailsandstrips-tin",
+    "value": {
+      "meltingPoint": 232,
+      "meltingDuration": 30,
+      "smeltedRatio": 4,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-tin",
+        "stacksize": 1
+      }
+    },
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/materialDensityByType/*-tin",
+    "value": 7260,
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "side": "Server"
+  }
+]
